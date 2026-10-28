@@ -1,5 +1,25 @@
-.first{
+*{
+    background-color: black;
     box-sizing: border-box;
-    width: 40px;
-    height:30px;
+    margin: 0;
+    padding: 0;
+}
+.first{
+        background-color: purple;
+        color: black;
+        content: auto;
+    box-sizing: content-box;
+    width: 40%;
+    
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+
+}
+p{
+    box-sizing: content-box;
+    width: 70%;
+     padding: 150px;
+    background-color: white;
+    
 }
