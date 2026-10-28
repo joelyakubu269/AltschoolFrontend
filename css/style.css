@@ -8,18 +8,21 @@
         background-color: purple;
         color: black;
         content: auto;
-    box-sizing: content-box;
+    
     width: 40%;
     
-    margin: 10px;
-    padding: 10px;
+    margin: 40px auto;
+    padding: 20px;
     text-align: center;
+    z-index: 1;
 
 }
 p{
-    box-sizing: content-box;
+    
     width: 70%;
-     padding: 150px;
+    margin: 0 auto;
+     padding: 40px;
     background-color: white;
+    z-index: 2;
     
 }
